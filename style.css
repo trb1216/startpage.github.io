@@ -1,7 +1,8 @@
 :root {
---bg-rgb: 5, 5, 5;
+  background-color: #050505;
 }
 
-body {
-background-color: var(--bg-rgb);
+
+search {
+  background-color: #080808;
 }
