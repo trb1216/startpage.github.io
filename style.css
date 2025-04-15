@@ -1,8 +1,14 @@
+* {
+  all: unset;
+}
+
 :root {
   background-color: #050505;
 }
 
-
+body {
+  background-color: #050505;
+}
 search {
   background-color: #080808;
 }
